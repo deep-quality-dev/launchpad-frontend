@@ -1,11 +1,5 @@
-### Meliora Launchpad UI
+### Launchpad Frontend
 
-
-Clone project
-
-```
-git clone https://github.com/meliora-finance/MeliPAd-UI.git
-```
 
 Install dependencies
 
